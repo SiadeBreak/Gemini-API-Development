@@ -16,7 +16,7 @@ For the application to function correctly, you will need to insert your own API 
 
 <img src="https://github.com/user-attachments/assets/a5251fb5-b202-4922-b420-eef5562af0f9" width="216" height="436" alt="API Key Config">
 
-## Contributing 🚀
+## Contribution 🚀
 
 The application is under development, and contributions are welcome! If you have suggestions for improvements or have encountered any issues, feel free to open an issue or submit a pull request. 🛠️
 
